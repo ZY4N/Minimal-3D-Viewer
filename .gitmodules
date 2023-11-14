@@ -1,0 +1,6 @@
+[submodule "libraries/include/stb"]
+	path = libraries/include/stb
+	url = https://github.com/nothings/stb
+[submodule "libraries/include/glm"]
+	path = libraries/include/glm
+	url = https://github.com/g-truc/glm/
